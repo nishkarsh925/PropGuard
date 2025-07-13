@@ -1,0 +1,26 @@
+ 
+  
+  
+ 
+
+ 
+   
+
+Property
+Document
+
+   
+ 
+      
+      
+
+Whisper
+Speech-to-Text
+
+LangChain
+Prompting
+& Verification
+
+ElevenLa bs V
+Text-to-Speech
+
