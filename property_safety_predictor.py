@@ -5,7 +5,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnableSequence
 
 # Step 1: Set your Groq API key
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "yourapi"
 
 # Step 2: Load and parse spaCy output from file
 with open("output/processed_output.txt", "r") as f:
